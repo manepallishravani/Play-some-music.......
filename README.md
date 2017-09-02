@@ -1,0 +1,3 @@
+# Play-some-music.......
+
+Make music in python. Binary to sound converter. Enter a binary number representing frequencies of notes,along with note duration,and hear the song it represents. Try the example song!
